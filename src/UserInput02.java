@@ -7,9 +7,9 @@ public class UserInput02 {
         //Calcular a área de um retângulo
 
         //Declarar e iniciar variáveis
-        double comprimento = 0;
-        double altura = 0;
-        double area = 0;
+        double comprimento;
+        double altura;
+        double area;
 
         //Iniciar o scanner
         Scanner scanner = new Scanner(System.in);
