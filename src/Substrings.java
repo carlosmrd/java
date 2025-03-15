@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Substrings {
     public static void main(String[] args) {
 
-        //.substring() é um método usado para extrair parte de uma string.
+        //.substring() é usado para extrair parte de uma string.
         //string.substring(start, end)
         //String username = email.substring(0, 14);
         //String domain = email.substring(15);
